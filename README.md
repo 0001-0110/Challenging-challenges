@@ -1,9 +1,14 @@
 This adds more achievements to the game.
 
 New achievements:
-- Work in progress
+- Did you try turning it off and on again ?
+> Build 100 power switches
 
 Future additions:
+- Automated genocide
+> Kill x enemies per minute
+- O-O-O
+> TODO
 - How did we get here ?
 > TODO
 - TODO
