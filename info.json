@@ -1,0 +1,9 @@
+{
+    "name": "challenging-challenges",
+    "version": "0.1.0",
+    "title": "Challenging challenges",
+    "description": "New achievements",
+    "author": "22",
+    "factorio_version": "2.0",
+    "dependencies": ["base", "?space-age"]
+}
